@@ -19,10 +19,11 @@ body{
     td,th,table,tr{
     border:2px solid red;
     border-collapse: collapse;
+        font-size:40x;
     }
 
     table{
-    width:175px;
+    width:200px;
     }
     
     article{
@@ -69,4 +70,7 @@ body{
       a:active {
         background-color:palegreen;
         color:black;
+      }
+    `#form-link{
+        font-size:30px;
       }
